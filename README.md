@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="result/three-images.jpg" />
+    <img src="result/three_images.bmp" />
 </p>
 
 > Create a single panoramic image by stitching a set of photographs
